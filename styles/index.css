@@ -50,6 +50,9 @@ button {
   .center-button {
     align-items: center;
   }
+  #mc_embed_signup {
+    max-width: 100%;
+  }
 }
 @media screen and (max-width: 767px) {
   * {
